@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Enemy
+  - PlayerAttack
+  - Healthbar
+  - menu
+  - InventoryGrid
+  - Item
+  - item2
+  - item3
+  - item1
+  - Victory
+  - End
+  - heart
+  - bossLoad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 130439581
+    locked: 0
+  - name: Player
+    uniqueID: 1634012341
+    locked: 0
+  - name: front
+    uniqueID: 1105487513
+    locked: 0
+  - name: frontfront
+    uniqueID: 4178635205
+    locked: 0
